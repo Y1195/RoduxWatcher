@@ -1,0 +1,6 @@
+{
+	"name": "default-project",
+	"tree": {
+		"$path": "src"
+	}
+}
